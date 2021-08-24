@@ -1,9 +1,8 @@
 
 Contexte:
----
-ChooseMyCompany est un site d'information sur les employeurs.
+
 Grace aux enquêtes salariés que nous administrons, nous récoltons des notes par entreprises que nous pouvons mettre à la disposition des visiteurs.
-Les visiteurs de notre site étant souvent en recherche d'emploi, nous avons souhaité leur proposer des offres directement sur le site choosemycompany.com.
+Les visiteurs de notre site étant souvent en recherche d'emploi, nous avons souhaité leur proposer des offres directement sur un site.
 Pour cela, notre partenaire - le site d'emploi Regionsjob.com - nous transmet ses offres d'emploi via un flux XML.
  
 Le code de ce petit projet permet l'import de ces offres dans notre système depuis ligne de commande.
